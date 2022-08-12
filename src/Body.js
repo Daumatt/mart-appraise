@@ -22,7 +22,7 @@ function Body() {
              <br/>
         </div>
         <div className='the'>
-            <img className='hit' src= {herodesk} alt="image" />
+            <img className='hit' src= {herodesk} alt="hero" />
         </div>
       </div>
         
